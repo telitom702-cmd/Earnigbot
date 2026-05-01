@@ -39,7 +39,7 @@ DEFAULT_SETTINGS = {
     "min_withdraw": 50,        
     "daily_bonus": 1.0,        
     "payment_channel": "@paymentpruff",
-    "channels": ["@shiyam7449266", "@starbotbd56", "@shiyam744"], 
+    "channels": ["@shiyam49266", "@starbbd56", "@shim744"], 
     "currency": "৳"            
 }
 
