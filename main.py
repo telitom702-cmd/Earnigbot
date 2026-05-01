@@ -5,8 +5,8 @@ import os
 import datetime
 
 # ================= CONFIGURATION =================
-BOT_TOKEN = '8325778161:AAGgSwUqQHJm8nxF952W8dFOlEnI_d7YNls'  # আপনার টোকেন
-ADMIN_ID = 7808485930              # আপনার টেলিগ্রাম ID (Integer হিসেবে)
+BOT_TOKEN = '8534427928:AAEeOKXj4L8bpkvw2FiOcwuQiPdwR5c9aOg'  # আপনার টোকেন
+ADMIN_ID = 5828992083              # আপনার টেলিগ্রাম ID (Integer হিসেবে)
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
