@@ -5,8 +5,8 @@ import os
 import datetime
 
 # ================= CONFIG =================
-BOT_TOKEN = 'YOUR_BOT_TOKEN'
-ADMIN_ID = 123456789
+BOT_TOKEN = '8534427928:AAEeOKXj4L8bpkvw2FiOcwuQiPdwR5c9aOg'
+ADMIN_ID = 5828992083
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
