@@ -38,7 +38,7 @@ DEFAULT_SETTINGS = {
     "refer_bonus": 5.0,        
     "min_withdraw": 50,        
     "daily_bonus": 1.0,        
-    "payment_channel": "@starbotbd56",
+    "payment_channel": "@paymentpruff",
     "channels": ["@shiyam7449266", "@starbotbd56", "@shiyam744"], 
     "currency": "৳"            
 }
